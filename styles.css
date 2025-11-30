@@ -76,6 +76,8 @@ table {
 /* end reset browser styles */
 html {
  background-color: rgb(253,248,171);
+background-image: url(works/background.jpg);
+
 }
 body {
   background-color: rgb(255,255,255);
@@ -86,7 +88,6 @@ body {
   margin-left: auto;
   margin-right: auto;
   padding: 15px;
-  background-image: url(works/background.jpg);
 }
 h1 {
  font-size: 2.75em;
